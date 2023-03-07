@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy Wahuria</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475k7wsmejic0x3n6y3uakrieedwko5c66bfwlxhf6&rid=giphy.gif&ct=g">
 
 
